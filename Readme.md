@@ -6,7 +6,7 @@ All Design are taken from  [uidesigndaily](https://uidesigndaily.com/).
 |  #  |      Component       |                                              Design                                              |
 | :-: | :------------------: | :----------------------------------------------------------------------------------------------: |
 |  0  |      Blog Cards      |    [Design](https://uidesigndaily.com/posts/sketch-blog-cards-post-article-thumbnail-day-997)    |
-|     |                      |                                           [Preview] ()                                           |
+|     |                      |    [Preview] (https://sid02.github.io/UI-Daily-Design/Accordion/index.html)                      |
 |  1  |        Login         |    [Design](https://uidesigndaily.com/posts/sketch-blog-cards-post-article-thumbnail-day-997)    |
 |     |                      |                                           [Preview] ()                                           |
 |  2  |      Accordion       |               [Design](https://uidesigndaily.com/posts/sketch-accordion-day-1220)                |
