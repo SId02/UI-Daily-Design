@@ -3,43 +3,22 @@ All Design are taken from  [uidesigndaily](https://uidesigndaily.com/).
 [Live Demo](https://sid02.github.io/UI-Daily-Design/) 
 
 
-|  #  |      Component       |                                              Design                                              |
-| :-: | :------------------: | :----------------------------------------------------------------------------------------------: |
-|  0  |      Blog Cards      |    [Design](https://uidesigndaily.com/posts/sketch-blog-cards-post-article-thumbnail-day-997)    |
-|     |                      |    [Preview](https://sid02.github.io/UI-Daily-Design/Accordion/index.html)                      |
-|  1  |        Login         |    [Design](https://uidesigndaily.com/posts/sketch-blog-cards-post-article-thumbnail-day-997)    |
-|     |                      |                                           [Preview] ()                                           |
-|  2  |      Accordion       |               [Design](https://uidesigndaily.com/posts/sketch-accordion-day-1220)                |
-|     |                      |                                           [Preview] ()                                           |
-|  3  |     Ads Manager      |         [Design](https://uidesigndaily.com/posts/sketch-ads-manager-table-list-day-1049)         |
-|     |                      |                                           [Preview] ()                                           |
-|  4  |    Birthday Card     |       [Design](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)       |
-|     |                      |                                           [Preview] ()                                           |
-|  5  |     Pricing Card     | [Design](https://uidesigndaily.com/posts/sketch-pricing-card-price-table-dark-theme-ui-day-1108) |
-|     |                      |                                           [Preview] ()                                           |
-|  6  |    Profile Cards     |      [Design](https://uidesigndaily.com/posts/sketch-profile-cards-ui-design-card-day-1205)      |
-|     |                      |                                           [Preview] ()                                           |
-|  7  |     Ratings Card     |       [Design](https://uidesigndaily.com/posts/figma-ratings-card-review-rating-day-1113)        |
-|     |                      |                                           [Preview] ()                                           |
-|  8  |  Sign Up UI Design   |         [Design](https://uidesigndaily.com/posts/sketch-sign-up-ui-design-form-day-1206)         |
-|     |                      |                                           [Preview] ()                                           |
-|  9  |     Price Cards      |      [Design](https://uidesigndaily.com/posts/sketch-pricing-cards-ui-design-card-day-1207)      |
-|     |                      |                                           [Preview] ()                                           |
-| 10  |    Sign Up Log In    |      [Design](https://uidesigndaily.com/posts/figma-sign-up-log-in-authentication-day-1109)      |
-|     |                      |                                           [Preview] ()                                           |
-| 11  |      Share Link      |    [Design](https://uidesigndaily.com/posts/sketch-blog-cards-post-article-thumbnail-day-997)    |
-|     |                      |                                           [Preview] ()                                           |
-| 12  | Color Palette Picker |    [Design](https://uidesigndaily.com/posts/sketch-color-palette-generator-picker--day-1114)     |
-|     |                      |                                           [Preview] ()                                           |
-| 13  |  Blog Cards Post     |    [Design](https://uidesigndaily.com/posts/sketch-blog-cards-post-article-thumbnail-day-998)    |
-|     |                      |                                           [Preview] ()                                           |
-| 14  |      Blog Cards      |    [Design](https://uidesigndaily.com/posts/sketch-blog-cards-post-article-thumbnail-day-997)    |
-|     |                      |                                           [Preview] ()                                           |
-| :-: | :------------------: | :----------------------------------------------------------------------------------------------: |
-
-
-
-
+|  #  | Project                                       | Live Demo                                               |
+| :-: | ------------------------------------------------------ | ---------------------------------------------- |
+| 0  | [Accordion](https://uidesigndaily.com/posts/sketch-accordion-day-1220)| [Live Demo](https://sid02.github.io/UI-Daily-Design/Accordion/index.html)|
+| 01 | [Ads Manager](https://uidesigndaily.com/posts/sketch-ads-manager-table-list-day-1049)| [Live Demo]( https://sid02.github.io/UI-Daily-Design/Ads%20Manager/index.html)|
+| 02 | [Birthday Card](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042) | [Live Demo](https://sid02.github.io/UI-Daily-Design/Birthdays%20List%20Card/index.html) |
+| 03 | [Blog Cards ](https://uidesigndaily.com/posts/sketch-blog-cards-post-article-thumbnail-day-997)|[Live Demo]( https://sid02.github.io/UI-Daily-Design/Blog%20Cards/index.html)|
+| 04 | [Blog Cards Post](https://uidesigndaily.com/posts/sketch-blog-cards-post-article-thumbnail-day-998)|[Live Demo](https://sid02.github.io/UI-Daily-Design/Blog%20Cards%20Day-998/index.html)|
+| 05 |[Login](https://uidesigndaily.com/posts/sketch-login-log-in-authentication-features-day-1022)| [Live Demo](https://sid02.github.io/UI-Daily-Design/Login/index.html)|
+| 06 |[Pricing Card Price Table](https://uidesigndaily.com/posts/sketch-pricing-card-price-table-dark-theme-ui-day-1108)|[Live Demo](https://sid02.github.io/UI-Daily-Design/Pricing%20Card%20Price%20Table%20Dark%20Theme/index.html)|
+| 07 |[Pricing Cards](https://uidesigndaily.com/posts/sketch-pricing-cards-ui-design-card-day-1207)|[Live Demo](https://sid02.github.io/UI-Daily-Design/Pricing%20Cards/index.html)|
+| 08  | [Ratings](https://uidesigndaily.com/posts/figma-ratings-card-review-rating-day-1113)|[Live Demo](https://sid02.github.io/UI-Daily-Design/Ratings%20Card/index.html)|
+| 09  | [Share Link](https://uidesigndaily.com/posts/figma-share-link-modal-pop-up-submit-day-1080)|[Live Demo](https://sid02.github.io/UI-Daily-Design/Share%20Link/index.html)                     |
+| 10  | [Sign Up Login](https://uidesigndaily.com/posts/figma-sign-up-log-in-authentication-day-1109)                               | [Live Demo](https://sid02.github.io/UI-Daily-Design/Sign%20Up%20Log%20In%20Authentication%20Day-1109/index.html)                |
+| 11  | [Sign Up UI Design](https://uidesigndaily.com/posts/sketch-sign-up-ui-design-form-day-1206)                                   | [Live Demo]( https://sid02.github.io/UI-Daily-Design/Sign%20Up%20UI%20Design-1206/index.html)                  |
+| 12  | [Activity Card](https://uidesigndaily.com/posts/xd-activity-card-select-day-941)|[Live Demo](https://sid02.github.io/UI-Daily-Design/Activity-Card/index.html)          |
+| | []()                         | []()             |
 
 
 
