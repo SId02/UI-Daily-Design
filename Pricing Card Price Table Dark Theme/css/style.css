@@ -1,0 +1,127 @@
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: #aa2b33;
+  color: #b8b0b2;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.fullscreen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 100vh;
+  background-color: #aa2b33;
+}
+
+.fullscreen__body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 1021px;
+  height: 732px;
+  box-shadow: 0px 36px 23px #490307;
+  border-radius: 10px;
+  background-color: #22161a;
+}
+
+.card-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 546px;
+  border-right: 1px solid;
+  border-color: #2d1f24;
+}
+
+.card-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 546px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: center;
+  width: 262px;
+  min-height: 406px;
+  margin: 0 53px;
+}
+
+.card__title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 49px;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+.card__price {
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: left;
+  padding-bottom: 4px;
+}
+
+.card__visitors {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: left;
+  padding-bottom: 62px;
+}
+
+ul {
+  list-style-type:disc;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  text-align: left;
+  padding-bottom: 62px;
+}
+
+.card__info {
+  text-align: left;
+}
+
+.button {
+  text-decoration: none;
+  height: 63px;
+  width: 262px;
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 400;
+  color: #af2830;
+  text-align: center;
+  appearance: none;
+  background: #22161a;
+  border: 1px solid #af2830;
+  border-radius: 3px;
+}
+
+.button:hover {
+  background: #af2830;
+  color: #fff;
+}

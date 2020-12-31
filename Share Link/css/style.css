@@ -1,0 +1,105 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Mulish', sans-serif;
+    font-size: 1rem;
+    background-color: #E5E5E5;
+}
+svg{
+    position: relative;
+}
+section{
+    width: 719px;
+    height: 400px;
+    background: #fff;
+    border-radius: 10px;
+    position: relative;
+    position: absolute;
+}
+h2{
+    font-weight: 700;
+    padding-bottom: 1em;
+}
+p.awesome{
+    color: #000;
+    font-weight: 600;
+    line-height: 1.5rem;
+    padding-bottom: 1em;
+}
+section .container{
+    margin: 2em auto;
+    width: 85%;
+}
+form{
+    width: 100%;
+    margin: .7em 0 2em 0 ;
+    display: flex;
+}
+input{
+    padding: 1em  ;
+    text-align: left;
+    border: 1px solid #E5E5E5;
+    border-radius: 5px;
+    width: 480px;
+    height: 49px;
+}
+input::placeholder{
+    font-size: 1rem;
+    color: #494949;
+}
+input:focus{
+    outline: none;
+    border: 2px solid #9677EF;
+    border-radius: 5px;
+}
+button{
+    border: 1px solid #9677EF;
+    width: 110px;
+    height: 49px;
+    margin-left: 1em;
+    border-radius:5px ;
+    color: #fff;
+    background: #9677EF;
+    font-weight: 500;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #fff;
+    color: #494949;
+}
+
+.guidelines{
+    background: #F8F9FD;
+    padding: 1.5em 2em ;
+    border-radius: 5px;
+}
+.guidelines h4{
+    padding-bottom: 1em ;
+    color: #494949;
+}
+.guidelines p{
+    color: #494949;
+}
+.guidelines p a{
+    color: #9677EF;
+}
+.guidelines p a:hover{
+    color: #494949;
+}
+img{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+}

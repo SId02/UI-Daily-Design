@@ -1,0 +1,133 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F1C44;
+}
+main{
+    width: 400px;
+    height: 650px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+main section{
+    margin: 0 auto;
+    width: 70%;
+}
+h2{
+    text-align: center;
+    padding: 1.5rem 0 2rem 0;
+    font-weight: 700;
+}
+.google{
+    display: flex;
+    align-items: center;
+    padding:.5em 0;
+    box-shadow: 0 9px 5px rgba(0, 0, 0, 0.06);
+    background-color: #5B86E6;
+    color: #fff;
+    border-radius: 5px;
+}
+.google .gg{
+    background-color: #fff;
+    border-radius: 5px;
+    height: 45px;
+    cursor: pointer;
+    margin-left: .5em;
+}
+.google .gg img{
+    width: 45px;
+}
+.google a{
+    text-decoration: none;
+    color: #fff;
+    padding-left: 2.9em;
+}
+.google a:hover{
+    color: #E65B7C;
+}
+.line{
+    position: relative;
+    margin: 2.9em 0;
+}
+.line p{
+    color: #949495;
+    font-size: .9rem;
+    text-align: center;
+    letter-spacing: 1.1px;
+}
+.line::before{
+    content: '';
+    position: absolute;
+    padding-left: 2em;
+    width: 5px;
+    height: 1px;
+    background-color:#949495 ;
+    top: 50%;
+    left: 0;
+}
+.line::after{
+    content: '';
+    position: absolute;
+    padding-left: 2em;
+    width: 5px;
+    height: 1px;
+    background-color:#949495 ;
+    top: 50%;
+    right: 0;
+}
+button{
+    width: 100%;
+    background-color: #E65B7C;
+    border: 0;
+    border-radius: 5px;
+    padding: 1em 0;
+    font-size: 1rem;
+    color: #fff;
+    cursor: pointer;
+    box-shadow:  0 10px 10px #EBEBEB; 
+}
+button:hover{
+    background-color: #5B86E6;
+}
+form label{
+    display: block;
+    font-weight: bold;
+    padding-bottom: .3em;
+}
+form .sign{
+    margin: 2em 0;
+}
+form input{
+    padding: 1.2em 1.8em;
+    width: 100%;
+    border-radius: 5px;
+    border:1px solid #D9DCED; 
+}
+form input::placeholder{
+    color: #949495 ;
+}
+form input:focus{
+    outline: none;
+    border: 1px solid #5B86E6;
+}
+p.account{
+    font-weight: bold;
+    padding: 2em 0;
+}
+p.account a{
+    text-decoration: none;
+    color: #5B86E6;
+    font-weight: 400;
+} 
+p.account a:hover{
+    color: #E65B7C;
+}
+

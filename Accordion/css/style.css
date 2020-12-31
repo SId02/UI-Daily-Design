@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+
+.accordion {
+    width: 549px;
+    height: 714px;
+    padding-bottom: 45px;;
+    background: #FFFFFF;
+    box-shadow: 0 20px 38px rgba(54, 93, 172, 0.18);
+    border-radius: 10px;
+    padding-left: 45px;
+    margin: 40px 0;
+}
+
+.accordion h2 {
+    font-size: 22px;
+    line-height: 26px;
+    width: 293px;
+    height: 58px;
+    font-weight: 500;
+    text-align: start;
+    margin-top: 36px;
+}
+
+.accordion .accordion__item1 {
+    display: flex;
+    align-items: center;
+    height: 90px;
+    width: 459px;
+    background: #FFF6EE;
+    border-left: 6px solid #FFC48B;
+    border-radius: 5px;
+    margin-top: 40px;
+
+}
+
+.accordion .accordion__item1 img {
+    margin: 24px 10px 24px 24px;
+}
+.accordion .accordion__item1 img {
+    width: 25px;
+    height: 25px;
+}
+
+.accordion .accordion__item1 p {
+    font-size: 16px;
+    line-height: 19px;
+
+}
+
+.accordion .accordion__item2 {
+    width: 459px;
+    background: #FAFAFF;
+    border-left: 6px solid #B4B3FF;
+    border-radius: 5px;
+    display: flex;
+    margin-top: 10px;
+}
+
+.accordion .accordion__item2 img {
+    margin: 30px 10px 0px 30px;
+    transform: rotate(45deg);
+}
+.accordion .accordion__item2 img {
+    width: 25px;
+    height: 25px;
+}
+
+.accordion .accordion__item2 p {
+    font-size: 16px;
+    line-height: 19px;
+    max-width: 228px;
+}
+
+.accordion .accordion__item2 p:first-child {
+    margin-top: 35px;
+    margin-bottom: 36px;
+}
+
+.accordion .accordion__item2 p:nth-child(2) {
+    margin-bottom: 21px;
+}
+.accordion .accordion__item2 p:nth-child(3) {
+    margin-bottom: 22px;
+}
+
+.accordion .accordion__item2 p:nth-child(4) {
+    margin-bottom: 22px;
+}
+.accordion .accordion__item2 p:nth-child(5) {
+    margin-bottom: 45px;
+}
+
+.accordion .accordion__item3 {
+    display: flex;
+    align-items: center;
+    height: 90px;
+    width: 459px;
+    background: #FFF0F3;
+    border-left: 6px solid #FFB3C0;
+    border-radius: 5px;
+    margin-top: 10px;
+
+}
+
+.accordion .accordion__item3 img {
+    margin: 24px 10px 24px 24px;
+}
+.accordion .accordion__item3 img {
+    width: 25px;
+    height: 25px;
+}
+
+.accordion .accordion__item3 p {
+    font-size: 16px;
+    line-height: 19px;
+}
