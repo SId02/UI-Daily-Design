@@ -1,8 +1,6 @@
 All Design are taken from  [uidesigndaily](https://uidesigndaily.com/).
 
-
-
-
+[Live Demo](https://sid02.github.io/UI-Daily-Design/) 
 
 
 |  #  |      Component       |                                              Design                                              |
